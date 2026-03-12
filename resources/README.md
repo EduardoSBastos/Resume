@@ -3,6 +3,13 @@
 
 This page lists links to interesting references
 
+## 3D
+
+- [Sketchfab](https://sketchfab.com/)
+    - Low Poly:
+        - Real textures:
+            [Kristian LaGrange](https://sketchfab.com/3d-models/cinque-terre-40bd14ec1056430ea769def0bb74aec4)
+
 ## 2D
 
 - [Polyhaven](https://polyhaven.com/)
